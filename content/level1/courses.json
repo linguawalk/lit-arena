@@ -3,7 +3,7 @@
   "level": 1,
   "courses": [
     {"id": "c1", "title": "국어Ⅰ", "description": "언어와 국어의 특질, 음운과 음운 변동, 단어와 품사, 문장과 문법 요소, 어문 규범과 담화", "available": true, "subject": "korean", "grade": "Ⅰ"},
-    {"id": "c2", "title": "국어Ⅱ", "description": "읽기의 원리와 분야별 독해(인문·사회·과학·기술·예술), 비판적 읽기, 쓰기의 과정과 갈래별 글쓰기", "available": false, "subject": "korean", "grade": "Ⅱ"},
+    {"id": "c2", "title": "국어Ⅱ", "description": "읽기의 원리와 분야별 독해(인문·사회·과학·기술·예술), 비판적 읽기, 쓰기의 과정과 갈래별 글쓰기", "available": true, "subject": "korean", "grade": "Ⅱ"},
     {"id": "c3", "title": "한자Ⅰ", "description": "한자의 구조와 부수, 기초 한자, 한자어의 짜임, 동음이의어와 성어, 교과·생활 속 한자어", "available": false, "subject": "hanja", "grade": "Ⅰ"},
     {"id": "c4", "title": "한자Ⅱ", "description": "한문의 문장 구조와 허사, 명구와 고전 산문, 한시, 사서 읽기와 우리 한문 기록 문화", "available": false, "subject": "hanja", "grade": "Ⅱ"},
     {"id": "c5", "title": "영어Ⅰ", "description": "한국어와 다른 영어의 구조, 문장 형식과 시제·태, 준동사, 관계사와 절, 가정법과 특수 구문, 어근·접사·어원", "available": false, "subject": "english", "grade": "Ⅰ"},
