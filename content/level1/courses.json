@@ -38,7 +38,7 @@
    "id": "c5",
    "title": "영어Ⅰ",
    "description": "한국어와 다른 영어의 구조, 문장 형식과 시제·태, 준동사, 관계사와 절, 가정법과 특수 구문, 어근·접사·어원",
-   "available": false,
+   "available": true,
    "subject": "english",
    "grade": "Ⅰ"
   },
