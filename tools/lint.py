@@ -26,5 +26,9 @@ for p in sorted(glob.glob(os.path.join(root, "level1", "c*", "ch*", "*.json"))):
             for b in q["blanks"]:
                 for a in b["answers"]:
                     if len(norm(a)) >= 2 and norm(a) in shown: print("정답 노출", where, a); bad += 1
+                # 한자 과목: 한 글자 음·뜻 답이 지문의 한글에 그대로 보이는지
+                a0 = norm(b["answers"][0])
+                if "/c3/" in p or "/c4/" in p:
+                    if len(a0) == 1 and re.match(r"[가-힣]", a0) and a0 in shown: print("한 글자 정답 노출", where, a0); bad += 1
 print("문제", bad)
 sys.exit(1 if bad else 0)
