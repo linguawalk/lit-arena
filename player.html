@@ -127,7 +127,7 @@ function norm(s){
     .replace(/<=/g, "≤").replace(/>=/g, "≥").replace(/!=/g, "≠").replace(/°/g, "");
 }
 function frac(s){
-  s = norm(s).replace(/^\+/, "");
+  s = norm(s).replace(/^\+/, "").replace(/(\d),(?=\d{3}(\D|$))/g, "$1");
   let m;
   if ((m = s.match(/^(-?\d+)\/(-?\d+)$/))) { const d = +m[2]; return d === 0 ? null : [+m[1], d]; }
   if ((m = s.match(/^(-?)(\d*)\.(\d+)$/))) { const den = 10 ** m[3].length; const n = +(m[2] || 0) * den + +m[3]; return [m[1] ? -n : n, den]; }
