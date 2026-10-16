@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0",
+  "level": 1,
+  "course": {
+    "id": "c1",
+    "title": "국어Ⅰ",
+    "description": "언어와 국어의 특질, 음운과 음운 변동, 단어와 품사, 문장과 문법 요소, 어문 규범과 담화"
+  },
+  "totals": {
+    "chapters": 1,
+    "lessons": 4,
+    "lesson_questions": 62,
+    "review_questions": 10,
+    "questions": 72
+  },
+  "chapters": [
+    {
+      "no": 1,
+      "id": "c1-ch01",
+      "title": "언어와 국어의 특질",
+      "dir": "ch01",
+      "lessons": 4,
+      "lesson_questions": 62,
+      "review_questions": 10
+    }
+  ]
+}
