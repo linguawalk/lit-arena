@@ -30,7 +30,7 @@
    "id": "c4",
    "title": "한자Ⅱ",
    "description": "한문의 문장 구조와 허사, 명구와 고전 산문, 한시, 사서 읽기와 우리 한문 기록 문화",
-   "available": false,
+   "available": true,
    "subject": "hanja",
    "grade": "Ⅱ"
   },
