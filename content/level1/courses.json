@@ -46,7 +46,7 @@
    "id": "c6",
    "title": "영어Ⅱ",
    "description": "세계 공용어로서의 영어, 문단 구조와 논리 독해, 학술·과학 텍스트 읽기, 요약·논증 에세이·공적 글쓰기",
-   "available": false,
+   "available": true,
    "subject": "english",
    "grade": "Ⅱ"
   },
