@@ -62,7 +62,7 @@
    "id": "c8",
    "title": "국문학Ⅱ",
    "description": "개화기부터 오늘날까지 한국 현대 시·소설·희곡·수필의 흐름과 세계 속 한국 문학",
-   "available": false,
+   "available": true,
    "subject": "korean-literature",
    "grade": "Ⅱ"
   },
