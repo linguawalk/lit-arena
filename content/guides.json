@@ -185,13 +185,13 @@
      "level": 2,
      "id": "western-lit-history",
      "title": "서양 문학사",
-     "available": false
+     "available": true
     },
     {
      "level": 2,
      "id": "east-asian-lit-history",
      "title": "동아시아 문학사",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
