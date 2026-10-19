@@ -197,25 +197,25 @@
      "level": 3,
      "id": "comparative-literature",
      "title": "비교문학",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "english-lit",
      "title": "영미문학",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "literary-theory",
      "title": "문학 비평 이론",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "translation-studies",
      "title": "번역학",
-     "available": false
+     "available": true
     }
    ]
   }
