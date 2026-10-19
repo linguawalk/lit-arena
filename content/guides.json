@@ -73,13 +73,13 @@
      "level": 3,
      "id": "korean-hanmun-literature",
      "title": "한국 한문학사",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "classics-reading",
      "title": "경서·사서 강독",
-     "available": false
+     "available": true
     }
    ]
   },
