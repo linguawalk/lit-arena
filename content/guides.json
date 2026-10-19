@@ -104,19 +104,19 @@
      "level": 3,
      "id": "english-syntax",
      "title": "영어 통사론",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "world-englishes",
      "title": "세계 영어와 사회언어학",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "history-of-english",
      "title": "영어사",
-     "available": false
+     "available": true
     }
    ]
   },
