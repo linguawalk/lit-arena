@@ -129,19 +129,19 @@
      "level": 2,
      "id": "literature-intro",
      "title": "문학개론",
-     "available": false
+     "available": true
     },
     {
      "level": 2,
      "id": "korean-classical-lit-history",
      "title": "한국 고전문학사",
-     "available": false
+     "available": true
     },
     {
      "level": 2,
      "id": "korean-modern-lit-history",
      "title": "한국 현대문학사",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
@@ -178,7 +178,7 @@
      "level": 2,
      "id": "literature-intro",
      "title": "문학개론",
-     "available": false,
+     "available": true,
      "t": "korean-literature"
     },
     {
