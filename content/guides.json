@@ -147,25 +147,25 @@
      "level": 3,
      "id": "classical-poetry",
      "title": "고전 시가론",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "classical-prose",
      "title": "고전 산문론",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "modern-poetry",
      "title": "현대시론",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "modern-fiction",
      "title": "현대소설론",
-     "available": false
+     "available": true
     }
    ]
   },
