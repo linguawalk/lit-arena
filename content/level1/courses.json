@@ -78,7 +78,7 @@
    "id": "c10",
    "title": "세계문학Ⅱ",
    "description": "세계문학과 번역, 중국·일본·인도·아랍·라틴아메리카·아프리카 문학, 현대 세계문학과 비교문학",
-   "available": false,
+   "available": true,
    "subject": "world-literature",
    "grade": "Ⅱ"
   }
