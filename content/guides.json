@@ -36,19 +36,19 @@
      "level": 3,
      "id": "korean-phonology",
      "title": "국어 음운론",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "korean-semantics-pragmatics",
      "title": "국어 의미론·화용론",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
      "id": "korean-language-history",
      "title": "국어사",
-     "available": false
+     "available": true
     }
    ]
   },
