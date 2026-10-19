@@ -54,7 +54,7 @@
    "id": "c7",
    "title": "국문학Ⅰ",
    "description": "문학의 갈래와 감상법, 고대 가요와 향가, 고려 가요, 시조와 가사, 고전 소설, 판소리와 민속극, 고전 수필",
-   "available": false,
+   "available": true,
    "subject": "korean-literature",
    "grade": "Ⅰ"
   },
