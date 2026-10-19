@@ -92,13 +92,13 @@
      "level": 2,
      "id": "english-linguistics-intro",
      "title": "영어학개론",
-     "available": false
+     "available": true
     },
     {
      "level": 2,
      "id": "academic-english",
      "title": "학술 영어 읽기·쓰기",
-     "available": false
+     "available": true
     },
     {
      "level": 3,

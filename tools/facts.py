@@ -40,6 +40,10 @@ FACTS = {
         text="현행 「국어의 로마자 표기법」은 2000년에 고시되었고, 2014년에 일부 개정되었다",
         value="2000", as_of="2014년 일부 개정 반영", source="국립국어원 한국어 어문 규범(국어의 로마자 표기법)",
         checked="2026-10-19", cycle=365),
+    "cite_editions": dict(
+        text="2026년 10월 기준 APA 양식은 7판(2019), MLA 양식은 9판(2021), 시카고 양식은 18판(2024)이 최신판이다",
+        value="7", as_of="2026-10", source="APA Style(apastyle.apa.org), MLA Style Center, Chicago Manual of Style Online",
+        checked="2026-10-19", cycle=365),
 }
 
 

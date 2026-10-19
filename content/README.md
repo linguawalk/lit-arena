@@ -73,6 +73,8 @@ lit-arena는 Arena 패밀리에서 **어학(국어·한자·영어)과 문학(�
 
 영미문학은 영어 트랙이 아니라 세계문학 트랙에 둔다(영어 과목은 '언어로서의 영어'에 집중).
 
+현황: 레벨2 12과목 공개(과목마다 8단원, 선수 점검 3문항과 단원별 자가점검 4문항). 과목마다 tools/guide_<id>.py가 빌드 스크립트이고, 공용 자료는 tools/lit_common.py에 둔다. 어문 규범·인용 양식처럼 바뀔 수 있는 내용을 다루는 단원에는 review(확인 시점·다음 점검)를 붙였다. 레벨3는 준비 중.
+
 ## 5. 작품 인용 원칙 (저작권)
 
 - 고전 문학, 한문 원전, 저작권이 만료된 작품: 원문 인용 가능. 출처(작품명·작가)를 적는다.
@@ -111,6 +113,7 @@ python3 tools/build_c1_ch01.py content   # 코스·챕터마다 (c1, c2 / ch01~c
 python3 tools/lint.py content            # 서술형 채점 기준·정답 노출 검사
 python3 tools/make_course_index.py content
 python3 tools/gk.py                      # guides.json 갱신
+python3 tools/guide_literature_intro.py  # 가이드 과목마다 (tools/guide_*.py)
 python3 tools/make_guide.py              # 플레이어를 고친 뒤 guide.html 다시 생성
 python3 tools/check_facts.py content     # 바뀔 수 있는 값 점검
 ```
