@@ -70,7 +70,7 @@
    "id": "c9",
    "title": "세계문학Ⅰ",
    "description": "그리스·로마에서 중세·르네상스, 근대 소설, 러시아 문학, 모더니즘과 전후 문학까지 서양 문학의 흐름",
-   "available": false,
+   "available": true,
    "subject": "world-literature",
    "grade": "Ⅰ"
   },
