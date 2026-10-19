@@ -61,13 +61,13 @@
      "level": 2,
      "id": "hanja-studies",
      "title": "한자학 개론(문자학)",
-     "available": false
+     "available": true
     },
     {
      "level": 2,
      "id": "hanmun-grammar",
      "title": "한문 문법과 강독",
-     "available": false
+     "available": true
     },
     {
      "level": 3,
